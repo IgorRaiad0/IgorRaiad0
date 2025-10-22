@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img height="194" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0bf6dea2-a087-4fb4-8632-4a4822f88c53/dbgy0s0-91e72de7-627e-4c90-98d4-6981f625d7a8.png" alt="Toei Sonic" />
+  <img height="194" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif" alt="Toei Sonic" />
 </p>
 
 <h1 align="center">Hi there 👋</h1>
