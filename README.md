@@ -1,9 +1,9 @@
 <!-- Banner principal -->
-<p align="center">
+<!--<p align="center">
   <img height="194" src="https://media.tenor.com/cDsdlQLrsdUAAAAi/waiting-slow.gif" alt="Toei Sonic" />
-</p>
+</p> -->
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h1>
 
 <!-- Gráfico Pac-Man -->
 <p align="center">
